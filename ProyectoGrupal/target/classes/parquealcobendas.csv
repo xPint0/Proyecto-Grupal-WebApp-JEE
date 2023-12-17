@@ -1,0 +1,379 @@
+Período,Tipo de vehículo,Combustible,Unidades
+2005,Camiones y furgonetas ,Gasolina,2000
+2005,Autobuses ,Gasolina,1
+2005,Motocicletas ,Gasóleo,6
+2005,Otros vehículos ,Gasóleo,440
+2005,Motocicletas ,Gasolina,3215
+2005,Autobuses ,Gasóleo,88
+2005,Remolques y semirremolques ,Gasóleo,0
+2005,Otros vehículos ,Gasolina,156
+2005,Camiones y furgonetas ,Gasóleo,30822
+2005,Remolques y semirremolques ,Gasolina,2
+2005,Tractores industriales ,Gasóleo,160
+2005,Tractores industriales ,Gasolina,5
+2005,Turismos ,Gasolina,37992
+2005,Tractores industriales ,Resto de tipos de combustibles,0
+2005,Camiones y furgonetas ,Resto de tipos de combustibles,5
+2005,Motocicletas ,Resto de tipos de combustibles,1
+2005,Otros vehículos ,Resto de tipos de combustibles,34
+2005,Turismos ,Gasóleo,78965
+2005,Autobuses ,Resto de tipos de combustibles,0
+2005,Remolques y semirremolques ,Resto de tipos de combustibles,412
+2005,Turismos ,Resto de tipos de combustibles,13
+2006,Camiones y furgonetas ,Gasolina,1280
+2006,Autobuses ,Gasolina,2
+2006,Motocicletas ,Gasóleo,6
+2006,Otros vehículos ,Gasóleo,486
+2006,Motocicletas ,Gasolina,3626
+2006,Autobuses ,Gasóleo,99
+2006,Remolques y semirremolques ,Gasóleo,0
+2006,Otros vehículos ,Gasolina,184
+2006,Camiones y furgonetas ,Gasóleo,11024
+2006,Remolques y semirremolques ,Gasolina,1
+2006,Tractores industriales ,Gasóleo,191
+2006,Tractores industriales ,Gasolina,2
+2006,Turismos ,Gasolina,34130
+2006,Tractores industriales ,Resto de tipos de combustibles,0
+2006,Camiones y furgonetas ,Resto de tipos de combustibles,1
+2006,Motocicletas ,Resto de tipos de combustibles,1
+2006,Otros vehículos ,Resto de tipos de combustibles,35
+2006,Turismos ,Gasóleo,56480
+2006,Autobuses ,Resto de tipos de combustibles,0
+2006,Remolques y semirremolques ,Resto de tipos de combustibles,431
+2006,Turismos ,Resto de tipos de combustibles,10
+2007,Camiones y furgonetas ,Gasolina,1269
+2007,Autobuses ,Gasolina,2
+2007,Motocicletas ,Gasóleo,6
+2007,Otros vehículos ,Gasóleo,511
+2007,Motocicletas ,Gasolina,4163
+2007,Autobuses ,Gasóleo,108
+2007,Remolques y semirremolques ,Gasóleo,0
+2007,Otros vehículos ,Gasolina,196
+2007,Camiones y furgonetas ,Gasóleo,12167
+2007,Remolques y semirremolques ,Gasolina,1
+2007,Tractores industriales ,Gasóleo,180
+2007,Tractores industriales ,Gasolina,2
+2007,Turismos ,Gasolina,33185
+2007,Tractores industriales ,Resto de tipos de combustibles,0
+2007,Camiones y furgonetas ,Resto de tipos de combustibles,1
+2007,Motocicletas ,Resto de tipos de combustibles,1
+2007,Otros vehículos ,Resto de tipos de combustibles,39
+2007,Turismos ,Gasóleo,61930
+2007,Autobuses ,Resto de tipos de combustibles,0
+2007,Remolques y semirremolques ,Resto de tipos de combustibles,485
+2007,Turismos ,Resto de tipos de combustibles,10
+2008,Camiones y furgonetas ,Gasolina,1215
+2008,Autobuses ,Gasolina,1
+2008,Motocicletas ,Gasóleo,6
+2008,Otros vehículos ,Gasóleo,566
+2008,Motocicletas ,Gasolina,4492
+2008,Autobuses ,Gasóleo,101
+2008,Remolques y semirremolques ,Gasóleo,0
+2008,Otros vehículos ,Gasolina,194
+2008,Camiones y furgonetas ,Gasóleo,15176
+2008,Remolques y semirremolques ,Gasolina,1
+2008,Tractores industriales ,Gasóleo,188
+2008,Tractores industriales ,Gasolina,2
+2008,Turismos ,Gasolina,31336
+2008,Tractores industriales ,Resto de tipos de combustibles,0
+2008,Camiones y furgonetas ,Resto de tipos de combustibles,1
+2008,Motocicletas ,Resto de tipos de combustibles,2
+2008,Otros vehículos ,Resto de tipos de combustibles,52
+2008,Turismos ,Gasóleo,63354
+2008,Autobuses ,Resto de tipos de combustibles,0
+2008,Remolques y semirremolques ,Resto de tipos de combustibles,489
+2008,Turismos ,Resto de tipos de combustibles,11
+2009,Camiones y furgonetas ,Gasolina,1260
+2009,Autobuses ,Gasolina,1
+2009,Motocicletas ,Gasóleo,6
+2009,Otros vehículos ,Gasóleo,588
+2009,Motocicletas ,Gasolina,4762
+2009,Autobuses ,Gasóleo,97
+2009,Remolques y semirremolques ,Gasóleo,0
+2009,Otros vehículos ,Gasolina,203
+2009,Camiones y furgonetas ,Gasóleo,17735
+2009,Remolques y semirremolques ,Gasolina,0
+2009,Tractores industriales ,Gasóleo,202
+2009,Tractores industriales ,Gasolina,2
+2009,Turismos ,Gasolina,28612
+2009,Tractores industriales ,Resto de tipos de combustibles,0
+2009,Camiones y furgonetas ,Resto de tipos de combustibles,1
+2009,Motocicletas ,Resto de tipos de combustibles,2
+2009,Otros vehículos ,Resto de tipos de combustibles,76
+2009,Turismos ,Gasóleo,62211
+2009,Autobuses ,Resto de tipos de combustibles,0
+2009,Remolques y semirremolques ,Resto de tipos de combustibles,457
+2009,Turismos ,Resto de tipos de combustibles,17
+2010,Camiones y furgonetas ,Gasolina,1270
+2010,Autobuses ,Gasolina,1
+2010,Motocicletas ,Gasóleo,7
+2010,Otros vehículos ,Gasóleo,575
+2010,Motocicletas ,Gasolina,4929
+2010,Autobuses ,Gasóleo,131
+2010,Remolques y semirremolques ,Gasóleo,0
+2010,Otros vehículos ,Gasolina,195
+2010,Camiones y furgonetas ,Gasóleo,22874
+2010,Remolques y semirremolques ,Gasolina,0
+2010,Tractores industriales ,Gasóleo,159
+2010,Tractores industriales ,Gasolina,2
+2010,Turismos ,Gasolina,28903
+2010,Tractores industriales ,Resto de tipos de combustibles,0
+2010,Camiones y furgonetas ,Resto de tipos de combustibles,12
+2010,Motocicletas ,Resto de tipos de combustibles,7
+2010,Otros vehículos ,Resto de tipos de combustibles,81
+2010,Turismos ,Gasóleo,68070
+2010,Autobuses ,Resto de tipos de combustibles,0
+2010,Remolques y semirremolques ,Resto de tipos de combustibles,479
+2010,Turismos ,Resto de tipos de combustibles,27
+2011,Camiones y furgonetas ,Gasolina,1406
+2011,Autobuses ,Gasolina,2
+2011,Motocicletas ,Gasóleo,8
+2011,Otros vehículos ,Gasóleo,548
+2011,Motocicletas ,Gasolina,5140
+2011,Autobuses ,Gasóleo,127
+2011,Remolques y semirremolques ,Gasóleo,0
+2011,Otros vehículos ,Gasolina,194
+2011,Camiones y furgonetas ,Gasóleo,36251
+2011,Remolques y semirremolques ,Gasolina,0
+2011,Tractores industriales ,Gasóleo,169
+2011,Tractores industriales ,Gasolina,2
+2011,Turismos ,Gasolina,29272
+2011,Tractores industriales ,Resto de tipos de combustibles,0
+2011,Camiones y furgonetas ,Resto de tipos de combustibles,14
+2011,Motocicletas ,Resto de tipos de combustibles,10
+2011,Otros vehículos ,Resto de tipos de combustibles,73
+2011,Turismos ,Gasóleo,86887
+2011,Autobuses ,Resto de tipos de combustibles,0
+2011,Remolques y semirremolques ,Resto de tipos de combustibles,486
+2011,Turismos ,Resto de tipos de combustibles,37
+2012,Camiones y furgonetas ,Gasolina,1285
+2012,Autobuses ,Gasolina,1
+2012,Motocicletas ,Gasóleo,7
+2012,Otros vehículos ,Gasóleo,517
+2012,Motocicletas ,Gasolina,5282
+2012,Autobuses ,Gasóleo,131
+2012,Remolques y semirremolques ,Gasóleo,0
+2012,Otros vehículos ,Gasolina,182
+2012,Camiones y furgonetas ,Gasóleo,35060
+2012,Remolques y semirremolques ,Gasolina,0
+2012,Tractores industriales ,Gasóleo,140
+2012,Tractores industriales ,Gasolina,2
+2012,Turismos ,Gasolina,27558
+2012,Tractores industriales ,Resto de tipos de combustibles,0
+2012,Camiones y furgonetas ,Resto de tipos de combustibles,32
+2012,Motocicletas ,Resto de tipos de combustibles,14
+2012,Otros vehículos ,Resto de tipos de combustibles,82
+2012,Turismos ,Gasóleo,84135
+2012,Autobuses ,Resto de tipos de combustibles,0
+2012,Remolques y semirremolques ,Resto de tipos de combustibles,511
+2012,Turismos ,Resto de tipos de combustibles,44
+2013,Camiones y furgonetas ,Gasolina,1216
+2013,Autobuses ,Gasolina,0
+2013,Motocicletas ,Gasóleo,7
+2013,Otros vehículos ,Gasóleo,513
+2013,Motocicletas ,Gasolina,5432
+2013,Autobuses ,Gasóleo,123
+2013,Remolques y semirremolques ,Gasóleo,0
+2013,Otros vehículos ,Gasolina,183
+2013,Camiones y furgonetas ,Gasóleo,33344
+2013,Remolques y semirremolques ,Gasolina,0
+2013,Tractores industriales ,Gasóleo,152
+2013,Tractores industriales ,Gasolina,1
+2013,Turismos ,Gasolina,27039
+2013,Tractores industriales ,Resto de tipos de combustibles,0
+2013,Camiones y furgonetas ,Resto de tipos de combustibles,163
+2013,Motocicletas ,Resto de tipos de combustibles,18
+2013,Otros vehículos ,Resto de tipos de combustibles,91
+2013,Turismos ,Gasóleo,83205
+2013,Autobuses ,Resto de tipos de combustibles,0
+2013,Remolques y semirremolques ,Resto de tipos de combustibles,510
+2013,Turismos ,Resto de tipos de combustibles,47
+2014,Camiones y furgonetas ,Gasolina,1131
+2014,Autobuses ,Gasolina,0
+2014,Motocicletas ,Gasóleo,3
+2014,Otros vehículos ,Gasóleo,535
+2014,Motocicletas ,Gasolina,5605
+2014,Autobuses ,Gasóleo,113
+2014,Remolques y semirremolques ,Gasóleo,0
+2014,Otros vehículos ,Gasolina,186
+2014,Camiones y furgonetas ,Gasóleo,33700
+2014,Remolques y semirremolques ,Gasolina,0
+2014,Tractores industriales ,Gasóleo,186
+2014,Tractores industriales ,Gasolina,0
+2014,Turismos ,Gasolina,25956
+2014,Tractores industriales ,Resto de tipos de combustibles,0
+2014,Camiones y furgonetas ,Resto de tipos de combustibles,180
+2014,Motocicletas ,Resto de tipos de combustibles,28
+2014,Otros vehículos ,Resto de tipos de combustibles,114
+2014,Turismos ,Gasóleo,85096
+2014,Autobuses ,Resto de tipos de combustibles,0
+2014,Remolques y semirremolques ,Resto de tipos de combustibles,528
+2014,Turismos ,Resto de tipos de combustibles,62
+2015,Camiones y furgonetas ,Gasolina,1082
+2015,Autobuses ,Gasolina,0
+2015,Motocicletas ,Gasóleo,4
+2015,Otros vehículos ,Gasóleo,532
+2015,Motocicletas ,Gasolina,5757
+2015,Autobuses ,Gasóleo,109
+2015,Remolques y semirremolques ,Gasóleo,0
+2015,Otros vehículos ,Gasolina,186
+2015,Camiones y furgonetas ,Gasóleo,36203
+2015,Remolques y semirremolques ,Gasolina,0
+2015,Tractores industriales ,Gasóleo,220
+2015,Tractores industriales ,Gasolina,0
+2015,Turismos ,Gasolina,27047
+2015,Tractores industriales ,Resto de tipos de combustibles,0
+2015,Camiones y furgonetas ,Resto de tipos de combustibles,230
+2015,Motocicletas ,Resto de tipos de combustibles,92
+2015,Otros vehículos ,Resto de tipos de combustibles,128
+2015,Turismos ,Gasóleo,93474
+2015,Autobuses ,Resto de tipos de combustibles,0
+2015,Remolques y semirremolques ,Resto de tipos de combustibles,533
+2015,Turismos ,Resto de tipos de combustibles,131
+2016,Camiones y furgonetas ,Gasolina,1029
+2016,Autobuses ,Gasolina,0
+2016,Motocicletas ,Gasóleo,6
+2016,Otros vehículos ,Gasóleo,541
+2016,Motocicletas ,Gasolina,5989
+2016,Autobuses ,Gasóleo,118
+2016,Remolques y semirremolques ,Gasóleo,0
+2016,Otros vehículos ,Gasolina,184
+2016,Camiones y furgonetas ,Gasóleo,37640
+2016,Remolques y semirremolques ,Gasolina,0
+2016,Tractores industriales ,Gasóleo,230
+2016,Tractores industriales ,Gasolina,0
+2016,Turismos ,Gasolina,31224
+2016,Tractores industriales ,Resto de tipos de combustibles,0
+2016,Camiones y furgonetas ,Resto de tipos de combustibles,349
+2016,Motocicletas ,Resto de tipos de combustibles,128
+2016,Otros vehículos ,Resto de tipos de combustibles,116
+2016,Turismos ,Gasóleo,102476
+2016,Autobuses ,Resto de tipos de combustibles,0
+2016,Remolques y semirremolques ,Resto de tipos de combustibles,567
+2016,Turismos ,Resto de tipos de combustibles,248
+2017,Camiones y furgonetas ,Gasolina,1029
+2017,Autobuses ,Gasolina,0
+2017,Motocicletas ,Gasóleo,6
+2017,Otros vehículos ,Gasóleo,539
+2017,Motocicletas ,Gasolina,6187
+2017,Autobuses ,Gasóleo,125
+2017,Remolques y semirremolques ,Gasóleo,0
+2017,Otros vehículos ,Gasolina,179
+2017,Camiones y furgonetas ,Gasóleo,36532
+2017,Remolques y semirremolques ,Gasolina,0
+2017,Tractores industriales ,Gasóleo,232
+2017,Tractores industriales ,Gasolina,0
+2017,Turismos ,Gasolina,36848
+2017,Tractores industriales ,Resto de tipos de combustibles,0
+2017,Camiones y furgonetas ,Resto de tipos de combustibles,401
+2017,Motocicletas ,Resto de tipos de combustibles,133
+2017,Otros vehículos ,Resto de tipos de combustibles,119
+2017,Turismos ,Gasóleo,112769
+2017,Autobuses ,Resto de tipos de combustibles,0
+2017,Remolques y semirremolques ,Resto de tipos de combustibles,609
+2017,Turismos ,Resto de tipos de combustibles,512
+2018,Camiones y furgonetas ,Gasolina,1275
+2018,Autobuses ,Gasolina,0
+2018,Motocicletas ,Gasóleo,13
+2018,Otros vehículos ,Gasóleo,551
+2018,Motocicletas ,Gasolina,6400
+2018,Autobuses ,Gasóleo,125
+2018,Remolques y semirremolques ,Gasóleo,0
+2018,Otros vehículos ,Gasolina,172
+2018,Camiones y furgonetas ,Gasóleo,40775
+2018,Remolques y semirremolques ,Gasolina,0
+2018,Tractores industriales ,Gasóleo,287
+2018,Tractores industriales ,Gasolina,0
+2018,Turismos ,Gasolina,45311
+2018,Tractores industriales ,Resto de tipos de combustibles,0
+2018,Camiones y furgonetas ,Resto de tipos de combustibles,655
+2018,Motocicletas ,Resto de tipos de combustibles,181
+2018,Otros vehículos ,Resto de tipos de combustibles,124
+2018,Turismos ,Gasóleo,118089
+2018,Autobuses ,Resto de tipos de combustibles,0
+2018,Remolques y semirremolques ,Resto de tipos de combustibles,602
+2018,Turismos ,Resto de tipos de combustibles,1380
+2019,Camiones y furgonetas ,Gasolina,1566
+2019,Autobuses ,Gasolina,0
+2019,Motocicletas ,Gasóleo,18
+2019,Otros vehículos ,Gasóleo,584
+2019,Motocicletas ,Gasolina,6668
+2019,Autobuses ,Gasóleo,154
+2019,Remolques y semirremolques ,Gasóleo,0
+2019,Otros vehículos ,Gasolina,175
+2019,Camiones y furgonetas ,Gasóleo,43508
+2019,Remolques y semirremolques ,Gasolina,0
+2019,Tractores industriales ,Gasóleo,221
+2019,Tractores industriales ,Gasolina,0
+2019,Turismos ,Gasolina,62183
+2019,Tractores industriales ,Resto de tipos de combustibles,0
+2019,Camiones y furgonetas ,Resto de tipos de combustibles,1363
+2019,Motocicletas ,Resto de tipos de combustibles,213
+2019,Otros vehículos ,Resto de tipos de combustibles,122
+2019,Turismos ,Gasóleo,118463
+2019,Autobuses ,Resto de tipos de combustibles,0
+2019,Remolques y semirremolques ,Resto de tipos de combustibles,637
+2019,Turismos ,Resto de tipos de combustibles,2485
+2020,Camiones y furgonetas ,Gasolina,1899
+2020,Autobuses ,Gasolina,0
+2020,Motocicletas ,Gasóleo,20
+2020,Otros vehículos ,Gasóleo,616
+2020,Motocicletas ,Gasolina,6804
+2020,Autobuses ,Gasóleo,158
+2020,Remolques y semirremolques ,Gasóleo,0
+2020,Otros vehículos ,Gasolina,174
+2020,Camiones y furgonetas ,Gasóleo,47078
+2020,Remolques y semirremolques ,Gasolina,0
+2020,Tractores industriales ,Gasóleo,246
+2020,Tractores industriales ,Gasolina,0
+2020,Turismos ,Gasolina,70079
+2020,Tractores industriales ,Resto de tipos de combustibles,0
+2020,Camiones y furgonetas ,Resto de tipos de combustibles,1464
+2020,Motocicletas ,Resto de tipos de combustibles,205
+2020,Otros vehículos ,Resto de tipos de combustibles,123
+2020,Turismos ,Gasóleo,115701
+2020,Autobuses ,Resto de tipos de combustibles,0
+2020,Remolques y semirremolques ,Resto de tipos de combustibles,631
+2020,Turismos ,Resto de tipos de combustibles,4285
+2021,Camiones y furgonetas ,Gasolina,2305
+2021,Autobuses ,Gasolina,0
+2021,Motocicletas ,Gasóleo,21
+2021,Otros vehículos ,Gasóleo,620
+2021,Motocicletas ,Gasolina,6849
+2021,Autobuses ,Gasóleo,199
+2021,Remolques y semirremolques ,Gasóleo,0
+2021,Otros vehículos ,Gasolina,169
+2021,Camiones y furgonetas ,Gasóleo,51892
+2021,Remolques y semirremolques ,Gasolina,0
+2021,Tractores industriales ,Gasóleo,244
+2021,Tractores industriales ,Gasolina,0
+2021,Turismos ,Gasolina,79835
+2021,Tractores industriales ,Resto de tipos de combustibles,0
+2021,Camiones y furgonetas ,Resto de tipos de combustibles,1711
+2021,Motocicletas ,Resto de tipos de combustibles,178
+2021,Otros vehículos ,Resto de tipos de combustibles,125
+2021,Turismos ,Gasóleo,109772
+2021,Autobuses ,Resto de tipos de combustibles,0
+2021,Remolques y semirremolques ,Resto de tipos de combustibles,591
+2021,Turismos ,Resto de tipos de combustibles,5236
+2022,Camiones y furgonetas ,Gasolina,2583
+2022,Autobuses ,Gasolina,0
+2022,Motocicletas ,Gasóleo,16
+2022,Otros vehículos ,Gasóleo,653
+2022,Motocicletas ,Gasolina,7036
+2022,Autobuses ,Gasóleo,201
+2022,Remolques y semirremolques ,Gasóleo,0
+2022,Otros vehículos ,Gasolina,174
+2022,Camiones y furgonetas ,Gasóleo,51206
+2022,Remolques y semirremolques ,Gasolina,0
+2022,Tractores industriales ,Gasóleo,472
+2022,Tractores industriales ,Gasolina,0
+2022,Turismos ,Gasolina,90083
+2022,Tractores industriales ,Resto de tipos de combustibles,0
+2022,Camiones y furgonetas ,Resto de tipos de combustibles,1640
+2022,Motocicletas ,Resto de tipos de combustibles,203
+2022,Otros vehículos ,Resto de tipos de combustibles,144
+2022,Turismos ,Gasóleo,105600
+2022,Autobuses ,Resto de tipos de combustibles,0
+2022,Remolques y semirremolques ,Resto de tipos de combustibles,613
+2022,Turismos ,Resto de tipos de combustibles,5478

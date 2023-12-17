@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<row Combustible="Gasolina" Período="2005" Tipo_de_vehículo="Camiones y furgonetas " Unidades="2000"/>
+<row Combustible="Gasolina" Período="2005" Tipo_de_vehículo="Autobuses " Unidades="1"/>
+<row Combustible="Gasóleo" Período="2005" Tipo_de_vehículo="Motocicletas " Unidades="6"/>
+<row Combustible="Gasóleo" Período="2005" Tipo_de_vehículo="Otros vehículos " Unidades="440"/>
+<row Combustible="Gasolina" Período="2005" Tipo_de_vehículo="Motocicletas " Unidades="3215"/>
+<row Combustible="Gasóleo" Período="2005" Tipo_de_vehículo="Autobuses " Unidades="88"/>
+<row Combustible="Gasóleo" Período="2005" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2005" Tipo_de_vehículo="Otros vehículos " Unidades="156"/>
+<row Combustible="Gasóleo" Período="2005" Tipo_de_vehículo="Camiones y furgonetas " Unidades="30822"/>
+<row Combustible="Gasolina" Período="2005" Tipo_de_vehículo="Remolques y semirremolques " Unidades="2"/>
+<row Combustible="Gasóleo" Período="2005" Tipo_de_vehículo="Tractores industriales " Unidades="160"/>
+<row Combustible="Gasolina" Período="2005" Tipo_de_vehículo="Tractores industriales " Unidades="5"/>
+<row Combustible="Gasolina" Período="2005" Tipo_de_vehículo="Turismos " Unidades="37992"/>
+<row Combustible="Resto de tipos de combustibles" Período="2005" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2005" Tipo_de_vehículo="Camiones y furgonetas " Unidades="5"/>
+<row Combustible="Resto de tipos de combustibles" Período="2005" Tipo_de_vehículo="Motocicletas " Unidades="1"/>
+<row Combustible="Resto de tipos de combustibles" Período="2005" Tipo_de_vehículo="Otros vehículos " Unidades="34"/>
+<row Combustible="Gasóleo" Período="2005" Tipo_de_vehículo="Turismos " Unidades="78965"/>
+<row Combustible="Resto de tipos de combustibles" Período="2005" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2005" Tipo_de_vehículo="Remolques y semirremolques " Unidades="412"/>
+<row Combustible="Resto de tipos de combustibles" Período="2005" Tipo_de_vehículo="Turismos " Unidades="13"/>
+<row Combustible="Gasolina" Período="2006" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1280"/>
+<row Combustible="Gasolina" Período="2006" Tipo_de_vehículo="Autobuses " Unidades="2"/>
+<row Combustible="Gasóleo" Período="2006" Tipo_de_vehículo="Motocicletas " Unidades="6"/>
+<row Combustible="Gasóleo" Período="2006" Tipo_de_vehículo="Otros vehículos " Unidades="486"/>
+<row Combustible="Gasolina" Período="2006" Tipo_de_vehículo="Motocicletas " Unidades="3626"/>
+<row Combustible="Gasóleo" Período="2006" Tipo_de_vehículo="Autobuses " Unidades="99"/>
+<row Combustible="Gasóleo" Período="2006" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2006" Tipo_de_vehículo="Otros vehículos " Unidades="184"/>
+<row Combustible="Gasóleo" Período="2006" Tipo_de_vehículo="Camiones y furgonetas " Unidades="11024"/>
+<row Combustible="Gasolina" Período="2006" Tipo_de_vehículo="Remolques y semirremolques " Unidades="1"/>
+<row Combustible="Gasóleo" Período="2006" Tipo_de_vehículo="Tractores industriales " Unidades="191"/>
+<row Combustible="Gasolina" Período="2006" Tipo_de_vehículo="Tractores industriales " Unidades="2"/>
+<row Combustible="Gasolina" Período="2006" Tipo_de_vehículo="Turismos " Unidades="34130"/>
+<row Combustible="Resto de tipos de combustibles" Período="2006" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2006" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1"/>
+<row Combustible="Resto de tipos de combustibles" Período="2006" Tipo_de_vehículo="Motocicletas " Unidades="1"/>
+<row Combustible="Resto de tipos de combustibles" Período="2006" Tipo_de_vehículo="Otros vehículos " Unidades="35"/>
+<row Combustible="Gasóleo" Período="2006" Tipo_de_vehículo="Turismos " Unidades="56480"/>
+<row Combustible="Resto de tipos de combustibles" Período="2006" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2006" Tipo_de_vehículo="Remolques y semirremolques " Unidades="431"/>
+<row Combustible="Resto de tipos de combustibles" Período="2006" Tipo_de_vehículo="Turismos " Unidades="10"/>
+<row Combustible="Gasolina" Período="2007" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1269"/>
+<row Combustible="Gasolina" Período="2007" Tipo_de_vehículo="Autobuses " Unidades="2"/>
+<row Combustible="Gasóleo" Período="2007" Tipo_de_vehículo="Motocicletas " Unidades="6"/>
+<row Combustible="Gasóleo" Período="2007" Tipo_de_vehículo="Otros vehículos " Unidades="511"/>
+<row Combustible="Gasolina" Período="2007" Tipo_de_vehículo="Motocicletas " Unidades="4163"/>
+<row Combustible="Gasóleo" Período="2007" Tipo_de_vehículo="Autobuses " Unidades="108"/>
+<row Combustible="Gasóleo" Período="2007" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2007" Tipo_de_vehículo="Otros vehículos " Unidades="196"/>
+<row Combustible="Gasóleo" Período="2007" Tipo_de_vehículo="Camiones y furgonetas " Unidades="12167"/>
+<row Combustible="Gasolina" Período="2007" Tipo_de_vehículo="Remolques y semirremolques " Unidades="1"/>
+<row Combustible="Gasóleo" Período="2007" Tipo_de_vehículo="Tractores industriales " Unidades="180"/>
+<row Combustible="Gasolina" Período="2007" Tipo_de_vehículo="Tractores industriales " Unidades="2"/>
+<row Combustible="Gasolina" Período="2007" Tipo_de_vehículo="Turismos " Unidades="33185"/>
+<row Combustible="Resto de tipos de combustibles" Período="2007" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2007" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1"/>
+<row Combustible="Resto de tipos de combustibles" Período="2007" Tipo_de_vehículo="Motocicletas " Unidades="1"/>
+<row Combustible="Resto de tipos de combustibles" Período="2007" Tipo_de_vehículo="Otros vehículos " Unidades="39"/>
+<row Combustible="Gasóleo" Período="2007" Tipo_de_vehículo="Turismos " Unidades="61930"/>
+<row Combustible="Resto de tipos de combustibles" Período="2007" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2007" Tipo_de_vehículo="Remolques y semirremolques " Unidades="485"/>
+<row Combustible="Resto de tipos de combustibles" Período="2007" Tipo_de_vehículo="Turismos " Unidades="10"/>
+<row Combustible="Gasolina" Período="2008" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1215"/>
+<row Combustible="Gasolina" Período="2008" Tipo_de_vehículo="Autobuses " Unidades="1"/>
+<row Combustible="Gasóleo" Período="2008" Tipo_de_vehículo="Motocicletas " Unidades="6"/>
+<row Combustible="Gasóleo" Período="2008" Tipo_de_vehículo="Otros vehículos " Unidades="566"/>
+<row Combustible="Gasolina" Período="2008" Tipo_de_vehículo="Motocicletas " Unidades="4492"/>
+<row Combustible="Gasóleo" Período="2008" Tipo_de_vehículo="Autobuses " Unidades="101"/>
+<row Combustible="Gasóleo" Período="2008" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2008" Tipo_de_vehículo="Otros vehículos " Unidades="194"/>
+<row Combustible="Gasóleo" Período="2008" Tipo_de_vehículo="Camiones y furgonetas " Unidades="15176"/>
+<row Combustible="Gasolina" Período="2008" Tipo_de_vehículo="Remolques y semirremolques " Unidades="1"/>
+<row Combustible="Gasóleo" Período="2008" Tipo_de_vehículo="Tractores industriales " Unidades="188"/>
+<row Combustible="Gasolina" Período="2008" Tipo_de_vehículo="Tractores industriales " Unidades="2"/>
+<row Combustible="Gasolina" Período="2008" Tipo_de_vehículo="Turismos " Unidades="31336"/>
+<row Combustible="Resto de tipos de combustibles" Período="2008" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2008" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1"/>
+<row Combustible="Resto de tipos de combustibles" Período="2008" Tipo_de_vehículo="Motocicletas " Unidades="2"/>
+<row Combustible="Resto de tipos de combustibles" Período="2008" Tipo_de_vehículo="Otros vehículos " Unidades="52"/>
+<row Combustible="Gasóleo" Período="2008" Tipo_de_vehículo="Turismos " Unidades="63354"/>
+<row Combustible="Resto de tipos de combustibles" Período="2008" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2008" Tipo_de_vehículo="Remolques y semirremolques " Unidades="489"/>
+<row Combustible="Resto de tipos de combustibles" Período="2008" Tipo_de_vehículo="Turismos " Unidades="11"/>
+<row Combustible="Gasolina" Período="2009" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1260"/>
+<row Combustible="Gasolina" Período="2009" Tipo_de_vehículo="Autobuses " Unidades="1"/>
+<row Combustible="Gasóleo" Período="2009" Tipo_de_vehículo="Motocicletas " Unidades="6"/>
+<row Combustible="Gasóleo" Período="2009" Tipo_de_vehículo="Otros vehículos " Unidades="588"/>
+<row Combustible="Gasolina" Período="2009" Tipo_de_vehículo="Motocicletas " Unidades="4762"/>
+<row Combustible="Gasóleo" Período="2009" Tipo_de_vehículo="Autobuses " Unidades="97"/>
+<row Combustible="Gasóleo" Período="2009" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2009" Tipo_de_vehículo="Otros vehículos " Unidades="203"/>
+<row Combustible="Gasóleo" Período="2009" Tipo_de_vehículo="Camiones y furgonetas " Unidades="17735"/>
+<row Combustible="Gasolina" Período="2009" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2009" Tipo_de_vehículo="Tractores industriales " Unidades="202"/>
+<row Combustible="Gasolina" Período="2009" Tipo_de_vehículo="Tractores industriales " Unidades="2"/>
+<row Combustible="Gasolina" Período="2009" Tipo_de_vehículo="Turismos " Unidades="28612"/>
+<row Combustible="Resto de tipos de combustibles" Período="2009" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2009" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1"/>
+<row Combustible="Resto de tipos de combustibles" Período="2009" Tipo_de_vehículo="Motocicletas " Unidades="2"/>
+<row Combustible="Resto de tipos de combustibles" Período="2009" Tipo_de_vehículo="Otros vehículos " Unidades="76"/>
+<row Combustible="Gasóleo" Período="2009" Tipo_de_vehículo="Turismos " Unidades="62211"/>
+<row Combustible="Resto de tipos de combustibles" Período="2009" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2009" Tipo_de_vehículo="Remolques y semirremolques " Unidades="457"/>
+<row Combustible="Resto de tipos de combustibles" Período="2009" Tipo_de_vehículo="Turismos " Unidades="17"/>
+<row Combustible="Gasolina" Período="2010" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1270"/>
+<row Combustible="Gasolina" Período="2010" Tipo_de_vehículo="Autobuses " Unidades="1"/>
+<row Combustible="Gasóleo" Período="2010" Tipo_de_vehículo="Motocicletas " Unidades="7"/>
+<row Combustible="Gasóleo" Período="2010" Tipo_de_vehículo="Otros vehículos " Unidades="575"/>
+<row Combustible="Gasolina" Período="2010" Tipo_de_vehículo="Motocicletas " Unidades="4929"/>
+<row Combustible="Gasóleo" Período="2010" Tipo_de_vehículo="Autobuses " Unidades="131"/>
+<row Combustible="Gasóleo" Período="2010" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2010" Tipo_de_vehículo="Otros vehículos " Unidades="195"/>
+<row Combustible="Gasóleo" Período="2010" Tipo_de_vehículo="Camiones y furgonetas " Unidades="22874"/>
+<row Combustible="Gasolina" Período="2010" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2010" Tipo_de_vehículo="Tractores industriales " Unidades="159"/>
+<row Combustible="Gasolina" Período="2010" Tipo_de_vehículo="Tractores industriales " Unidades="2"/>
+<row Combustible="Gasolina" Período="2010" Tipo_de_vehículo="Turismos " Unidades="28903"/>
+<row Combustible="Resto de tipos de combustibles" Período="2010" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2010" Tipo_de_vehículo="Camiones y furgonetas " Unidades="12"/>
+<row Combustible="Resto de tipos de combustibles" Período="2010" Tipo_de_vehículo="Motocicletas " Unidades="7"/>
+<row Combustible="Resto de tipos de combustibles" Período="2010" Tipo_de_vehículo="Otros vehículos " Unidades="81"/>
+<row Combustible="Gasóleo" Período="2010" Tipo_de_vehículo="Turismos " Unidades="68070"/>
+<row Combustible="Resto de tipos de combustibles" Período="2010" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2010" Tipo_de_vehículo="Remolques y semirremolques " Unidades="479"/>
+<row Combustible="Resto de tipos de combustibles" Período="2010" Tipo_de_vehículo="Turismos " Unidades="27"/>
+<row Combustible="Gasolina" Período="2011" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1406"/>
+<row Combustible="Gasolina" Período="2011" Tipo_de_vehículo="Autobuses " Unidades="2"/>
+<row Combustible="Gasóleo" Período="2011" Tipo_de_vehículo="Motocicletas " Unidades="8"/>
+<row Combustible="Gasóleo" Período="2011" Tipo_de_vehículo="Otros vehículos " Unidades="548"/>
+<row Combustible="Gasolina" Período="2011" Tipo_de_vehículo="Motocicletas " Unidades="5140"/>
+<row Combustible="Gasóleo" Período="2011" Tipo_de_vehículo="Autobuses " Unidades="127"/>
+<row Combustible="Gasóleo" Período="2011" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2011" Tipo_de_vehículo="Otros vehículos " Unidades="194"/>
+<row Combustible="Gasóleo" Período="2011" Tipo_de_vehículo="Camiones y furgonetas " Unidades="36251"/>
+<row Combustible="Gasolina" Período="2011" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2011" Tipo_de_vehículo="Tractores industriales " Unidades="169"/>
+<row Combustible="Gasolina" Período="2011" Tipo_de_vehículo="Tractores industriales " Unidades="2"/>
+<row Combustible="Gasolina" Período="2011" Tipo_de_vehículo="Turismos " Unidades="29272"/>
+<row Combustible="Resto de tipos de combustibles" Período="2011" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2011" Tipo_de_vehículo="Camiones y furgonetas " Unidades="14"/>
+<row Combustible="Resto de tipos de combustibles" Período="2011" Tipo_de_vehículo="Motocicletas " Unidades="10"/>
+<row Combustible="Resto de tipos de combustibles" Período="2011" Tipo_de_vehículo="Otros vehículos " Unidades="73"/>
+<row Combustible="Gasóleo" Período="2011" Tipo_de_vehículo="Turismos " Unidades="86887"/>
+<row Combustible="Resto de tipos de combustibles" Período="2011" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2011" Tipo_de_vehículo="Remolques y semirremolques " Unidades="486"/>
+<row Combustible="Resto de tipos de combustibles" Período="2011" Tipo_de_vehículo="Turismos " Unidades="37"/>
+<row Combustible="Gasolina" Período="2012" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1285"/>
+<row Combustible="Gasolina" Período="2012" Tipo_de_vehículo="Autobuses " Unidades="1"/>
+<row Combustible="Gasóleo" Período="2012" Tipo_de_vehículo="Motocicletas " Unidades="7"/>
+<row Combustible="Gasóleo" Período="2012" Tipo_de_vehículo="Otros vehículos " Unidades="517"/>
+<row Combustible="Gasolina" Período="2012" Tipo_de_vehículo="Motocicletas " Unidades="5282"/>
+<row Combustible="Gasóleo" Período="2012" Tipo_de_vehículo="Autobuses " Unidades="131"/>
+<row Combustible="Gasóleo" Período="2012" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2012" Tipo_de_vehículo="Otros vehículos " Unidades="182"/>
+<row Combustible="Gasóleo" Período="2012" Tipo_de_vehículo="Camiones y furgonetas " Unidades="35060"/>
+<row Combustible="Gasolina" Período="2012" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2012" Tipo_de_vehículo="Tractores industriales " Unidades="140"/>
+<row Combustible="Gasolina" Período="2012" Tipo_de_vehículo="Tractores industriales " Unidades="2"/>
+<row Combustible="Gasolina" Período="2012" Tipo_de_vehículo="Turismos " Unidades="27558"/>
+<row Combustible="Resto de tipos de combustibles" Período="2012" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2012" Tipo_de_vehículo="Camiones y furgonetas " Unidades="32"/>
+<row Combustible="Resto de tipos de combustibles" Período="2012" Tipo_de_vehículo="Motocicletas " Unidades="14"/>
+<row Combustible="Resto de tipos de combustibles" Período="2012" Tipo_de_vehículo="Otros vehículos " Unidades="82"/>
+<row Combustible="Gasóleo" Período="2012" Tipo_de_vehículo="Turismos " Unidades="84135"/>
+<row Combustible="Resto de tipos de combustibles" Período="2012" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2012" Tipo_de_vehículo="Remolques y semirremolques " Unidades="511"/>
+<row Combustible="Resto de tipos de combustibles" Período="2012" Tipo_de_vehículo="Turismos " Unidades="44"/>
+<row Combustible="Gasolina" Período="2013" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1216"/>
+<row Combustible="Gasolina" Período="2013" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2013" Tipo_de_vehículo="Motocicletas " Unidades="7"/>
+<row Combustible="Gasóleo" Período="2013" Tipo_de_vehículo="Otros vehículos " Unidades="513"/>
+<row Combustible="Gasolina" Período="2013" Tipo_de_vehículo="Motocicletas " Unidades="5432"/>
+<row Combustible="Gasóleo" Período="2013" Tipo_de_vehículo="Autobuses " Unidades="123"/>
+<row Combustible="Gasóleo" Período="2013" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2013" Tipo_de_vehículo="Otros vehículos " Unidades="183"/>
+<row Combustible="Gasóleo" Período="2013" Tipo_de_vehículo="Camiones y furgonetas " Unidades="33344"/>
+<row Combustible="Gasolina" Período="2013" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2013" Tipo_de_vehículo="Tractores industriales " Unidades="152"/>
+<row Combustible="Gasolina" Período="2013" Tipo_de_vehículo="Tractores industriales " Unidades="1"/>
+<row Combustible="Gasolina" Período="2013" Tipo_de_vehículo="Turismos " Unidades="27039"/>
+<row Combustible="Resto de tipos de combustibles" Período="2013" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2013" Tipo_de_vehículo="Camiones y furgonetas " Unidades="163"/>
+<row Combustible="Resto de tipos de combustibles" Período="2013" Tipo_de_vehículo="Motocicletas " Unidades="18"/>
+<row Combustible="Resto de tipos de combustibles" Período="2013" Tipo_de_vehículo="Otros vehículos " Unidades="91"/>
+<row Combustible="Gasóleo" Período="2013" Tipo_de_vehículo="Turismos " Unidades="83205"/>
+<row Combustible="Resto de tipos de combustibles" Período="2013" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2013" Tipo_de_vehículo="Remolques y semirremolques " Unidades="510"/>
+<row Combustible="Resto de tipos de combustibles" Período="2013" Tipo_de_vehículo="Turismos " Unidades="47"/>
+<row Combustible="Gasolina" Período="2014" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1131"/>
+<row Combustible="Gasolina" Período="2014" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2014" Tipo_de_vehículo="Motocicletas " Unidades="3"/>
+<row Combustible="Gasóleo" Período="2014" Tipo_de_vehículo="Otros vehículos " Unidades="535"/>
+<row Combustible="Gasolina" Período="2014" Tipo_de_vehículo="Motocicletas " Unidades="5605"/>
+<row Combustible="Gasóleo" Período="2014" Tipo_de_vehículo="Autobuses " Unidades="113"/>
+<row Combustible="Gasóleo" Período="2014" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2014" Tipo_de_vehículo="Otros vehículos " Unidades="186"/>
+<row Combustible="Gasóleo" Período="2014" Tipo_de_vehículo="Camiones y furgonetas " Unidades="33700"/>
+<row Combustible="Gasolina" Período="2014" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2014" Tipo_de_vehículo="Tractores industriales " Unidades="186"/>
+<row Combustible="Gasolina" Período="2014" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Gasolina" Período="2014" Tipo_de_vehículo="Turismos " Unidades="25956"/>
+<row Combustible="Resto de tipos de combustibles" Período="2014" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2014" Tipo_de_vehículo="Camiones y furgonetas " Unidades="180"/>
+<row Combustible="Resto de tipos de combustibles" Período="2014" Tipo_de_vehículo="Motocicletas " Unidades="28"/>
+<row Combustible="Resto de tipos de combustibles" Período="2014" Tipo_de_vehículo="Otros vehículos " Unidades="114"/>
+<row Combustible="Gasóleo" Período="2014" Tipo_de_vehículo="Turismos " Unidades="85096"/>
+<row Combustible="Resto de tipos de combustibles" Período="2014" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2014" Tipo_de_vehículo="Remolques y semirremolques " Unidades="528"/>
+<row Combustible="Resto de tipos de combustibles" Período="2014" Tipo_de_vehículo="Turismos " Unidades="62"/>
+<row Combustible="Gasolina" Período="2015" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1082"/>
+<row Combustible="Gasolina" Período="2015" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2015" Tipo_de_vehículo="Motocicletas " Unidades="4"/>
+<row Combustible="Gasóleo" Período="2015" Tipo_de_vehículo="Otros vehículos " Unidades="532"/>
+<row Combustible="Gasolina" Período="2015" Tipo_de_vehículo="Motocicletas " Unidades="5757"/>
+<row Combustible="Gasóleo" Período="2015" Tipo_de_vehículo="Autobuses " Unidades="109"/>
+<row Combustible="Gasóleo" Período="2015" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2015" Tipo_de_vehículo="Otros vehículos " Unidades="186"/>
+<row Combustible="Gasóleo" Período="2015" Tipo_de_vehículo="Camiones y furgonetas " Unidades="36203"/>
+<row Combustible="Gasolina" Período="2015" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2015" Tipo_de_vehículo="Tractores industriales " Unidades="220"/>
+<row Combustible="Gasolina" Período="2015" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Gasolina" Período="2015" Tipo_de_vehículo="Turismos " Unidades="27047"/>
+<row Combustible="Resto de tipos de combustibles" Período="2015" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2015" Tipo_de_vehículo="Camiones y furgonetas " Unidades="230"/>
+<row Combustible="Resto de tipos de combustibles" Período="2015" Tipo_de_vehículo="Motocicletas " Unidades="92"/>
+<row Combustible="Resto de tipos de combustibles" Período="2015" Tipo_de_vehículo="Otros vehículos " Unidades="128"/>
+<row Combustible="Gasóleo" Período="2015" Tipo_de_vehículo="Turismos " Unidades="93474"/>
+<row Combustible="Resto de tipos de combustibles" Período="2015" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2015" Tipo_de_vehículo="Remolques y semirremolques " Unidades="533"/>
+<row Combustible="Resto de tipos de combustibles" Período="2015" Tipo_de_vehículo="Turismos " Unidades="131"/>
+<row Combustible="Gasolina" Período="2016" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1029"/>
+<row Combustible="Gasolina" Período="2016" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2016" Tipo_de_vehículo="Motocicletas " Unidades="6"/>
+<row Combustible="Gasóleo" Período="2016" Tipo_de_vehículo="Otros vehículos " Unidades="541"/>
+<row Combustible="Gasolina" Período="2016" Tipo_de_vehículo="Motocicletas " Unidades="5989"/>
+<row Combustible="Gasóleo" Período="2016" Tipo_de_vehículo="Autobuses " Unidades="118"/>
+<row Combustible="Gasóleo" Período="2016" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2016" Tipo_de_vehículo="Otros vehículos " Unidades="184"/>
+<row Combustible="Gasóleo" Período="2016" Tipo_de_vehículo="Camiones y furgonetas " Unidades="37640"/>
+<row Combustible="Gasolina" Período="2016" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2016" Tipo_de_vehículo="Tractores industriales " Unidades="230"/>
+<row Combustible="Gasolina" Período="2016" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Gasolina" Período="2016" Tipo_de_vehículo="Turismos " Unidades="31224"/>
+<row Combustible="Resto de tipos de combustibles" Período="2016" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2016" Tipo_de_vehículo="Camiones y furgonetas " Unidades="349"/>
+<row Combustible="Resto de tipos de combustibles" Período="2016" Tipo_de_vehículo="Motocicletas " Unidades="128"/>
+<row Combustible="Resto de tipos de combustibles" Período="2016" Tipo_de_vehículo="Otros vehículos " Unidades="116"/>
+<row Combustible="Gasóleo" Período="2016" Tipo_de_vehículo="Turismos " Unidades="102476"/>
+<row Combustible="Resto de tipos de combustibles" Período="2016" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2016" Tipo_de_vehículo="Remolques y semirremolques " Unidades="567"/>
+<row Combustible="Resto de tipos de combustibles" Período="2016" Tipo_de_vehículo="Turismos " Unidades="248"/>
+<row Combustible="Gasolina" Período="2017" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1029"/>
+<row Combustible="Gasolina" Período="2017" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2017" Tipo_de_vehículo="Motocicletas " Unidades="6"/>
+<row Combustible="Gasóleo" Período="2017" Tipo_de_vehículo="Otros vehículos " Unidades="539"/>
+<row Combustible="Gasolina" Período="2017" Tipo_de_vehículo="Motocicletas " Unidades="6187"/>
+<row Combustible="Gasóleo" Período="2017" Tipo_de_vehículo="Autobuses " Unidades="125"/>
+<row Combustible="Gasóleo" Período="2017" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2017" Tipo_de_vehículo="Otros vehículos " Unidades="179"/>
+<row Combustible="Gasóleo" Período="2017" Tipo_de_vehículo="Camiones y furgonetas " Unidades="36532"/>
+<row Combustible="Gasolina" Período="2017" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2017" Tipo_de_vehículo="Tractores industriales " Unidades="232"/>
+<row Combustible="Gasolina" Período="2017" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Gasolina" Período="2017" Tipo_de_vehículo="Turismos " Unidades="36848"/>
+<row Combustible="Resto de tipos de combustibles" Período="2017" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2017" Tipo_de_vehículo="Camiones y furgonetas " Unidades="401"/>
+<row Combustible="Resto de tipos de combustibles" Período="2017" Tipo_de_vehículo="Motocicletas " Unidades="133"/>
+<row Combustible="Resto de tipos de combustibles" Período="2017" Tipo_de_vehículo="Otros vehículos " Unidades="119"/>
+<row Combustible="Gasóleo" Período="2017" Tipo_de_vehículo="Turismos " Unidades="112769"/>
+<row Combustible="Resto de tipos de combustibles" Período="2017" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2017" Tipo_de_vehículo="Remolques y semirremolques " Unidades="609"/>
+<row Combustible="Resto de tipos de combustibles" Período="2017" Tipo_de_vehículo="Turismos " Unidades="512"/>
+<row Combustible="Gasolina" Período="2018" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1275"/>
+<row Combustible="Gasolina" Período="2018" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2018" Tipo_de_vehículo="Motocicletas " Unidades="13"/>
+<row Combustible="Gasóleo" Período="2018" Tipo_de_vehículo="Otros vehículos " Unidades="551"/>
+<row Combustible="Gasolina" Período="2018" Tipo_de_vehículo="Motocicletas " Unidades="6400"/>
+<row Combustible="Gasóleo" Período="2018" Tipo_de_vehículo="Autobuses " Unidades="125"/>
+<row Combustible="Gasóleo" Período="2018" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2018" Tipo_de_vehículo="Otros vehículos " Unidades="172"/>
+<row Combustible="Gasóleo" Período="2018" Tipo_de_vehículo="Camiones y furgonetas " Unidades="40775"/>
+<row Combustible="Gasolina" Período="2018" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2018" Tipo_de_vehículo="Tractores industriales " Unidades="287"/>
+<row Combustible="Gasolina" Período="2018" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Gasolina" Período="2018" Tipo_de_vehículo="Turismos " Unidades="45311"/>
+<row Combustible="Resto de tipos de combustibles" Período="2018" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2018" Tipo_de_vehículo="Camiones y furgonetas " Unidades="655"/>
+<row Combustible="Resto de tipos de combustibles" Período="2018" Tipo_de_vehículo="Motocicletas " Unidades="181"/>
+<row Combustible="Resto de tipos de combustibles" Período="2018" Tipo_de_vehículo="Otros vehículos " Unidades="124"/>
+<row Combustible="Gasóleo" Período="2018" Tipo_de_vehículo="Turismos " Unidades="118089"/>
+<row Combustible="Resto de tipos de combustibles" Período="2018" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2018" Tipo_de_vehículo="Remolques y semirremolques " Unidades="602"/>
+<row Combustible="Resto de tipos de combustibles" Período="2018" Tipo_de_vehículo="Turismos " Unidades="1380"/>
+<row Combustible="Gasolina" Período="2019" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1566"/>
+<row Combustible="Gasolina" Período="2019" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2019" Tipo_de_vehículo="Motocicletas " Unidades="18"/>
+<row Combustible="Gasóleo" Período="2019" Tipo_de_vehículo="Otros vehículos " Unidades="584"/>
+<row Combustible="Gasolina" Período="2019" Tipo_de_vehículo="Motocicletas " Unidades="6668"/>
+<row Combustible="Gasóleo" Período="2019" Tipo_de_vehículo="Autobuses " Unidades="154"/>
+<row Combustible="Gasóleo" Período="2019" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2019" Tipo_de_vehículo="Otros vehículos " Unidades="175"/>
+<row Combustible="Gasóleo" Período="2019" Tipo_de_vehículo="Camiones y furgonetas " Unidades="43508"/>
+<row Combustible="Gasolina" Período="2019" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2019" Tipo_de_vehículo="Tractores industriales " Unidades="221"/>
+<row Combustible="Gasolina" Período="2019" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Gasolina" Período="2019" Tipo_de_vehículo="Turismos " Unidades="62183"/>
+<row Combustible="Resto de tipos de combustibles" Período="2019" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2019" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1363"/>
+<row Combustible="Resto de tipos de combustibles" Período="2019" Tipo_de_vehículo="Motocicletas " Unidades="213"/>
+<row Combustible="Resto de tipos de combustibles" Período="2019" Tipo_de_vehículo="Otros vehículos " Unidades="122"/>
+<row Combustible="Gasóleo" Período="2019" Tipo_de_vehículo="Turismos " Unidades="118463"/>
+<row Combustible="Resto de tipos de combustibles" Período="2019" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2019" Tipo_de_vehículo="Remolques y semirremolques " Unidades="637"/>
+<row Combustible="Resto de tipos de combustibles" Período="2019" Tipo_de_vehículo="Turismos " Unidades="2485"/>
+<row Combustible="Gasolina" Período="2020" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1899"/>
+<row Combustible="Gasolina" Período="2020" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2020" Tipo_de_vehículo="Motocicletas " Unidades="20"/>
+<row Combustible="Gasóleo" Período="2020" Tipo_de_vehículo="Otros vehículos " Unidades="616"/>
+<row Combustible="Gasolina" Período="2020" Tipo_de_vehículo="Motocicletas " Unidades="6804"/>
+<row Combustible="Gasóleo" Período="2020" Tipo_de_vehículo="Autobuses " Unidades="158"/>
+<row Combustible="Gasóleo" Período="2020" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2020" Tipo_de_vehículo="Otros vehículos " Unidades="174"/>
+<row Combustible="Gasóleo" Período="2020" Tipo_de_vehículo="Camiones y furgonetas " Unidades="47078"/>
+<row Combustible="Gasolina" Período="2020" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2020" Tipo_de_vehículo="Tractores industriales " Unidades="246"/>
+<row Combustible="Gasolina" Período="2020" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Gasolina" Período="2020" Tipo_de_vehículo="Turismos " Unidades="70079"/>
+<row Combustible="Resto de tipos de combustibles" Período="2020" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2020" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1464"/>
+<row Combustible="Resto de tipos de combustibles" Período="2020" Tipo_de_vehículo="Motocicletas " Unidades="205"/>
+<row Combustible="Resto de tipos de combustibles" Período="2020" Tipo_de_vehículo="Otros vehículos " Unidades="123"/>
+<row Combustible="Gasóleo" Período="2020" Tipo_de_vehículo="Turismos " Unidades="115701"/>
+<row Combustible="Resto de tipos de combustibles" Período="2020" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2020" Tipo_de_vehículo="Remolques y semirremolques " Unidades="631"/>
+<row Combustible="Resto de tipos de combustibles" Período="2020" Tipo_de_vehículo="Turismos " Unidades="4285"/>
+<row Combustible="Gasolina" Período="2021" Tipo_de_vehículo="Camiones y furgonetas " Unidades="2305"/>
+<row Combustible="Gasolina" Período="2021" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2021" Tipo_de_vehículo="Motocicletas " Unidades="21"/>
+<row Combustible="Gasóleo" Período="2021" Tipo_de_vehículo="Otros vehículos " Unidades="620"/>
+<row Combustible="Gasolina" Período="2021" Tipo_de_vehículo="Motocicletas " Unidades="6849"/>
+<row Combustible="Gasóleo" Período="2021" Tipo_de_vehículo="Autobuses " Unidades="199"/>
+<row Combustible="Gasóleo" Período="2021" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2021" Tipo_de_vehículo="Otros vehículos " Unidades="169"/>
+<row Combustible="Gasóleo" Período="2021" Tipo_de_vehículo="Camiones y furgonetas " Unidades="51892"/>
+<row Combustible="Gasolina" Período="2021" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2021" Tipo_de_vehículo="Tractores industriales " Unidades="244"/>
+<row Combustible="Gasolina" Período="2021" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Gasolina" Período="2021" Tipo_de_vehículo="Turismos " Unidades="79835"/>
+<row Combustible="Resto de tipos de combustibles" Período="2021" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2021" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1711"/>
+<row Combustible="Resto de tipos de combustibles" Período="2021" Tipo_de_vehículo="Motocicletas " Unidades="178"/>
+<row Combustible="Resto de tipos de combustibles" Período="2021" Tipo_de_vehículo="Otros vehículos " Unidades="125"/>
+<row Combustible="Gasóleo" Período="2021" Tipo_de_vehículo="Turismos " Unidades="109772"/>
+<row Combustible="Resto de tipos de combustibles" Período="2021" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2021" Tipo_de_vehículo="Remolques y semirremolques " Unidades="591"/>
+<row Combustible="Resto de tipos de combustibles" Período="2021" Tipo_de_vehículo="Turismos " Unidades="5236"/>
+<row Combustible="Gasolina" Período="2022" Tipo_de_vehículo="Camiones y furgonetas " Unidades="2583"/>
+<row Combustible="Gasolina" Período="2022" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2022" Tipo_de_vehículo="Motocicletas " Unidades="16"/>
+<row Combustible="Gasóleo" Período="2022" Tipo_de_vehículo="Otros vehículos " Unidades="653"/>
+<row Combustible="Gasolina" Período="2022" Tipo_de_vehículo="Motocicletas " Unidades="7036"/>
+<row Combustible="Gasóleo" Período="2022" Tipo_de_vehículo="Autobuses " Unidades="201"/>
+<row Combustible="Gasóleo" Período="2022" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasolina" Período="2022" Tipo_de_vehículo="Otros vehículos " Unidades="174"/>
+<row Combustible="Gasóleo" Período="2022" Tipo_de_vehículo="Camiones y furgonetas " Unidades="51206"/>
+<row Combustible="Gasolina" Período="2022" Tipo_de_vehículo="Remolques y semirremolques " Unidades="0"/>
+<row Combustible="Gasóleo" Período="2022" Tipo_de_vehículo="Tractores industriales " Unidades="472"/>
+<row Combustible="Gasolina" Período="2022" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Gasolina" Período="2022" Tipo_de_vehículo="Turismos " Unidades="90083"/>
+<row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Tractores industriales " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Camiones y furgonetas " Unidades="1640"/>
+<row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Motocicletas " Unidades="203"/>
+<row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Otros vehículos " Unidades="144"/>
+<row Combustible="Gasóleo" Período="2022" Tipo_de_vehículo="Turismos " Unidades="105600"/>
+<row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Autobuses " Unidades="0"/>
+<row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Remolques y semirremolques " Unidades="613"/>
+<row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Turismos " Unidades="5478"/>
+<row Combustible="aaa" Período="aaaaa" Tipo_de_vehículo="aaaa" Unidades="aaaa"/></root>
