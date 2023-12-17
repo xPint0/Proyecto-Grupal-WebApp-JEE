@@ -232,29 +232,29 @@ public class ServletAcceso extends HttpServlet {
 					
 					String ruta = "\\Ruta\\Absoluta\\Del\\Archivo"; // Cambiar la ruta y nombre del archivo
 
-                    String nuevoPeriodo = request.getParameter("dato1");
-                    String nuevoTipoVehiculo = request.getParameter("dato2");
-                    String nuevoCombustible = request.getParameter("dato3");
-                    String nuevasUnidades = request.getParameter("dato4");
-
-                    boolean escrituraExitosa = Writter.escribirXLS(ruta, nuevoPeriodo, nuevoTipoVehiculo, nuevoCombustible, nuevasUnidades);
-
-                    if (escrituraExitosa) {
-                        page = "/Menu.jsp";
-                        AbrirArchivo.abrir(ruta);
-                    } else {
-                        page = "/Error.jsp";
-                    }
-					
+			                String nuevoPeriodo = request.getParameter("dato1");
+			                String nuevoTipoVehiculo = request.getParameter("dato2");
+			                String nuevoCombustible = request.getParameter("dato3");
+			                String nuevasUnidades = request.getParameter("dato4");
+			
+			                boolean escrituraExitosa = Writter.escribirXLS(ruta, nuevoPeriodo, nuevoTipoVehiculo, nuevoCombustible, nuevasUnidades);
+			
+			                    if (escrituraExitosa) {
+			                        page = "/Menu.jsp";
+			                        AbrirArchivo.abrir(ruta);
+			                    } else {
+			                        page = "/Error.jsp";
+			                    }
+								
+							}
+							// no ha seleccionado nada
+							else {
+								page = "Error.jsp";
+								request.setAttribute("errorAccion", true);
+							}
+						}
+					}
+					request.getRequestDispatcher(page).forward(request, response);
 				}
-				// no ha seleccionado nada
-				else {
-					page = "Error.jsp";
-					request.setAttribute("errorAccion", true);
-				}
-			}
-		}
-		request.getRequestDispatcher(page).forward(request, response);
-	}
 
 }
