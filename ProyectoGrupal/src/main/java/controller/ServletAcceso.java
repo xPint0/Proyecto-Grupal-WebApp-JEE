@@ -93,7 +93,7 @@ public class ServletAcceso extends HttpServlet {
 				if (request.getParameter("formato").equalsIgnoreCase("CSV")) {
 
 					// ruta del archivo CSV
-					String filePath = "C:\\Users\\dpjre\\eclipse-workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.csv";
+					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
 
 					// Lee el CSV utilizando la clase Reader
 					List<String[]> data = Reader.readCSV(filePath);
@@ -111,7 +111,7 @@ public class ServletAcceso extends HttpServlet {
 					// Lectura JSON
 				} else if (request.getParameter("formato").equalsIgnoreCase("JSON")) {
 
-					String filePath = "C:\\Users\\dpjre\\eclipse-workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.json";
+					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
 
 					List<Dato> datos = Reader.readJSON(filePath);
 
@@ -122,7 +122,7 @@ public class ServletAcceso extends HttpServlet {
 					// Lectura XML
 				} else if (request.getParameter("formato").equalsIgnoreCase("XML")) {
 					
-					String filePath = "C:\\Users\\dpjre\\eclipse-workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.xml";
+					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
 
 					List<Dato> datos = Reader.readXML(filePath);
 
@@ -133,7 +133,7 @@ public class ServletAcceso extends HttpServlet {
 					
 					// Lectura XLS
 				} else {
-					String archivo = "C:\\Users\\dpjre\\eclipse-workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.xlsm"; // Cambiar la ruta y nombre del archivo
+					String archivo = "\\Ruta\\Absoluta\\Del\\Archivo"; // Cambiar la ruta y nombre del archivo
 
 			        List<Dato> datos = Reader.readXLS(archivo);
 
@@ -150,7 +150,7 @@ public class ServletAcceso extends HttpServlet {
 				if (request.getParameter("formato").equalsIgnoreCase("CSV")) {
 
 					// ruta del archivo CSV					
-					String filePath = "C:\\Users\\dpjre\\eclipse-workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.csv";
+					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
 
 					// System.out.println(filePath);
 
@@ -179,7 +179,7 @@ public class ServletAcceso extends HttpServlet {
 				} else if (request.getParameter("formato").equalsIgnoreCase("JSON")) {
 
 					// Ruta del archivo JSON
-					String filePath = "C:\\Users\\dpjre\\eclipse-workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.json";
+					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
 
 					// Obtener parámetros del formulario
 					String nuevoPeriodo = request.getParameter("dato1");
@@ -205,7 +205,7 @@ public class ServletAcceso extends HttpServlet {
 				} else if (request.getParameter("formato").equalsIgnoreCase("XML")) {
 
 					// Ruta del archivo XML
-					String filePath = "C:\\Users\\dpjre\\eclipse-workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.xml";
+					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
 
 					// Obtener parámetros del formulario
 					String nuevoPeriodo = request.getParameter("dato1");
@@ -230,7 +230,7 @@ public class ServletAcceso extends HttpServlet {
 					// Escritura XLS
 				} else if (request.getParameter("formato").equalsIgnoreCase("XLS")) {
 					
-					String ruta = "C:\\Users\\dpjre\\eclipse-workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.xlsm"; // Cambiar la ruta y nombre del archivo
+					String ruta = "\\Ruta\\Absoluta\\Del\\Archivo"; // Cambiar la ruta y nombre del archivo
 
                     String nuevoPeriodo = request.getParameter("dato1");
                     String nuevoTipoVehiculo = request.getParameter("dato2");
