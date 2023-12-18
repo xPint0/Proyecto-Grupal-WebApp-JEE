@@ -376,5 +376,4 @@
 <row Combustible="Gasóleo" Período="2022" Tipo_de_vehículo="Turismos " Unidades="105600"/>
 <row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Autobuses " Unidades="0"/>
 <row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Remolques y semirremolques " Unidades="613"/>
-<row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Turismos " Unidades="5478"/>
-<row Combustible="aaa" Período="aaaaa" Tipo_de_vehículo="aaaa" Unidades="aaaa"/></root>
+<row Combustible="Resto de tipos de combustibles" Período="2022" Tipo_de_vehículo="Turismos " Unidades="5478"/></root>
