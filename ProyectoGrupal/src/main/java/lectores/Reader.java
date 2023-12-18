@@ -6,8 +6,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -51,11 +49,13 @@ public class Reader {
                 Cell unidadesCell = row.getCell(3);
 
                 Double periodoD = periodoCell.getNumericCellValue();
-                String periodo = periodoD.toString();
+                Integer periodoI = periodoD.intValue();
+                String periodo = periodoI.toString();
                 String tipoVehiculo = tipoVehiculoCell.getStringCellValue();
                 String combustible = combustibleCell.getStringCellValue();
                 Double unidadesD = unidadesCell.getNumericCellValue();
-                String unidades = periodoD.toString();
+                Integer unidadesI = unidadesD.intValue();
+                String unidades = unidadesI.toString();
 
                 Dato dato = new Dato(periodo, tipoVehiculo, combustible, unidades);
                 datos.add(dato);
