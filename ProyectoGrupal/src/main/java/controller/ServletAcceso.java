@@ -1,54 +1,18 @@
 package controller;
 
-import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
-import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-//import lectores.CSVReader;
+
 import lectores.Reader;
 
-import java.io.File;
 import java.io.IOException;
-import java.io.InputStream;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
-import javax.print.DocFlavor.URL;
-
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.fasterxml.jackson.databind.node.ObjectNode;
 
 import escritores.AbrirArchivo;
 import escritores.Writter;
-import jakarta.servlet.RequestDispatcher;
-import jakarta.servlet.ServletException;
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.HttpServlet;
-import jakarta.servlet.http.HttpServletRequest;
-import jakarta.servlet.http.HttpServletResponse;
-//import lectores.CSVReader;
-
-import java.io.File;
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-import javax.print.DocFlavor.URL;
-
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.fasterxml.jackson.databind.node.ObjectNode;
-
-//import escritores.AbrirCSV;
-//import escritores.CSVWriter;
 
 /**
  * Servlet implementation class ServletAcceso
@@ -85,7 +49,12 @@ public class ServletAcceso extends HttpServlet {
 			page = "Menu.jsp";
 			request.setAttribute("vacio", true);
 
+			// si la accion no esta seleccionada
+		} else if (request.getParameter("accion") == null) {
+			page = "Error.jsp";
+			request.setAttribute("errorAccion", true);
 		} else {
+
 			// lectura
 			if (request.getParameter("accion").equalsIgnoreCase("lectura")) {
 
@@ -93,7 +62,7 @@ public class ServletAcceso extends HttpServlet {
 				if (request.getParameter("formato").equalsIgnoreCase("CSV")) {
 
 					// ruta del archivo CSV
-					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
+					String filePath = "C:\\Users\\pinvalda\\Desktop\\Acceso a datos\\Workspace\\ProyectoGrupal\\src\\main\\resources\\parquemovildealcobendas.csv";
 
 					// Lee el CSV utilizando la clase Reader
 					List<String[]> data = Reader.readCSV(filePath);
@@ -111,7 +80,7 @@ public class ServletAcceso extends HttpServlet {
 					// Lectura JSON
 				} else if (request.getParameter("formato").equalsIgnoreCase("JSON")) {
 
-					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
+					String filePath = "C:\\Users\\pinvalda\\Desktop\\Acceso a datos\\Workspace\\ProyectoGrupal\\src\\main\\resources\\parquemovildealcobendas.json";
 
 					List<Dato> datos = Reader.readJSON(filePath);
 
@@ -121,26 +90,25 @@ public class ServletAcceso extends HttpServlet {
 
 					// Lectura XML
 				} else if (request.getParameter("formato").equalsIgnoreCase("XML")) {
-					
-					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
+
+					String filePath = "C:\\Users\\pinvalda\\Desktop\\Acceso a datos\\Workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.xml";
 
 					List<Dato> datos = Reader.readXML(filePath);
 
 					request.setAttribute("datos", datos);
 
 					page = "DatosAbiertosXML.jsp";
-					
-					
+
 					// Lectura XLS
 				} else {
-					String archivo = "\\Ruta\\Absoluta\\Del\\Archivo"; // Cambiar la ruta y nombre del archivo
+					String archivo = "C:\\Users\\pinvalda\\Desktop\\Acceso a datos\\Workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.xlsm";
 
-			        List<Dato> datos = Reader.readXLS(archivo);
+					List<Dato> datos = Reader.readXLS(archivo);
 
-			        request.setAttribute("datos", datos);
+					request.setAttribute("datos", datos);
 
-			        page="DatosAbiertosXLS.jsp";
-			    
+					page = "DatosAbiertosXLS.jsp";
+
 				}
 
 				// escritura
@@ -149,8 +117,8 @@ public class ServletAcceso extends HttpServlet {
 				// Escritura CSV
 				if (request.getParameter("formato").equalsIgnoreCase("CSV")) {
 
-					// ruta del archivo CSV					
-					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
+					// ruta del archivo CSV
+					String filePath = "C:\\Users\\pinvalda\\Desktop\\Acceso a datos\\Workspace\\ProyectoGrupal\\src\\main\\resources\\parquemovildealcobendas.csv";
 
 					// System.out.println(filePath);
 
@@ -158,7 +126,7 @@ public class ServletAcceso extends HttpServlet {
 					Writter csvWriter = new Writter(filePath);
 					List<String> nuevoRegistro = Arrays.asList(dato1, dato2, dato3, dato4);
 
-					// Comprobacion de escritura 
+					// Comprobacion de escritura
 					// True
 					if (Writter.escribirCSV(nuevoRegistro)) { // Abre el archivo CSV
 						AbrirArchivo.abrir(filePath);
@@ -179,7 +147,7 @@ public class ServletAcceso extends HttpServlet {
 				} else if (request.getParameter("formato").equalsIgnoreCase("JSON")) {
 
 					// Ruta del archivo JSON
-					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
+					String filePath = "C:\\Users\\pinvalda\\Desktop\\Acceso a datos\\Workspace\\ProyectoGrupal\\src\\main\\resources\\parquemovildealcobendas.json";
 
 					// Obtener parámetros del formulario
 					String nuevoPeriodo = request.getParameter("dato1");
@@ -205,7 +173,7 @@ public class ServletAcceso extends HttpServlet {
 				} else if (request.getParameter("formato").equalsIgnoreCase("XML")) {
 
 					// Ruta del archivo XML
-					String filePath = "\\Ruta\\Absoluta\\Del\\Archivo";
+					String filePath = "C:\\Users\\pinvalda\\Desktop\\Acceso a datos\\Workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.xml";
 
 					// Obtener parámetros del formulario
 					String nuevoPeriodo = request.getParameter("dato1");
@@ -226,35 +194,36 @@ public class ServletAcceso extends HttpServlet {
 						request.setAttribute("errorEscritura", true);
 						page = "Error.jsp";
 					}
-					
+
 					// Escritura XLS
 				} else if (request.getParameter("formato").equalsIgnoreCase("XLS")) {
-					
-					String ruta = "\\Ruta\\Absoluta\\Del\\Archivo"; // Cambiar la ruta y nombre del archivo
 
-			                String nuevoPeriodo = request.getParameter("dato1");
-			                String nuevoTipoVehiculo = request.getParameter("dato2");
-			                String nuevoCombustible = request.getParameter("dato3");
-			                String nuevasUnidades = request.getParameter("dato4");
-			
-			                boolean escrituraExitosa = Writter.escribirXLS(ruta, nuevoPeriodo, nuevoTipoVehiculo, nuevoCombustible, nuevasUnidades);
-			
-			                    if (escrituraExitosa) {
-			                        page = "/Menu.jsp";
-			                        AbrirArchivo.abrir(ruta);
-			                    } else {
-			                        page = "/Error.jsp";
-			                    }
-								
-							}
-							// no ha seleccionado nada
-							else {
-								page = "Error.jsp";
-								request.setAttribute("errorAccion", true);
-							}
-						}
+					String ruta = "C:\\Users\\pinvalda\\Desktop\\Acceso a datos\\Workspace\\ProyectoGrupal\\src\\main\\resources\\parquealcobendas.xlsm";
+
+					String nuevoPeriodo = request.getParameter("dato1");
+					String nuevoTipoVehiculo = request.getParameter("dato2");
+					String nuevoCombustible = request.getParameter("dato3");
+					String nuevasUnidades = request.getParameter("dato4");
+
+					boolean escrituraExitosa = Writter.escribirXLS(ruta, nuevoPeriodo, nuevoTipoVehiculo,
+							nuevoCombustible, nuevasUnidades);
+
+					if (escrituraExitosa) {
+						page = "/Menu.jsp";
+						AbrirArchivo.abrir(ruta);
+					} else {
+						page = "/Error.jsp";
 					}
-					request.getRequestDispatcher(page).forward(request, response);
-				}
 
+				}
+				// no ha seleccionado nada
+				else {
+					page = "Error.jsp";
+					request.setAttribute("errorAccion", true);
+				}
+			}
+
+		}
+		request.getRequestDispatcher(page).forward(request, response);
+	}
 }
